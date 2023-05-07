@@ -13,8 +13,8 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "dependencies": {
-    "cordova-android": "^8.1.0",
-    "cordova-ios": "^5.0.1",
+    "cordova-android": "^11.0.0",
+    "cordova-ios": "^6.3.0",
     "cordova-plugin-splashscreen": "^5.0.3"
   },
   "devDependencies": {
